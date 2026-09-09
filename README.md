@@ -1,24 +1,12 @@
 **🛠️ Tools & Technologies Used**
 
-**SQL**
-Database creation
-Table relationships
-INSERT statements
-JOIN operations
-Aggregation functions
-GROUP BY and ORDER BY
-Monthly and department-wise analysis
+
+This project helped me strengthen my practical skills in data visualization, dashboard design, data analysis, DAX, and presenting insights through interactive reports.
 
 
-**Power BI**
-Data visualization
-KPI cards
-Interactive charts
-Slicers/filters
-Dashboard design
-Business insights
+I focused on creating a clean and user-friendly dashboard where important insights can be understood quickly.
 
 
-**💡 What I Learned**
-Through this project, I strengthened my practical knowledge of SQL data analysis and Power BI dashboard development.
-I also learned how to connect database-level analysis with interactive visualizations and present complex data in a simple and meaningful way.
+**Tools** : Power BI | DAX | Data Visualization | Data Analysis
+
+
