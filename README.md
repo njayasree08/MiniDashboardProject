@@ -7,7 +7,7 @@ This project helped me strengthen my practical skills in data visualization, das
 I focused on creating a clean and user-friendly dashboard where important insights can be understood quickly.
 
 
-**Tools** : Power BI | DAX | Data Visualization | Data Analysis
+**Tools** : Power BI | DAX | Data Visualization | Data Analysis | Excel | Data Cleaning | Data visulization 
 
 
 
