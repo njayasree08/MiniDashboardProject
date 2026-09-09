@@ -11,4 +11,4 @@ I focused on creating a clean and user-friendly dashboard where important insigh
 
 
 
-<img width="300" height="300" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/973068f0-c2f6-4066-8b68-8f80bda76962" />
+<img width="500" height="300" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/973068f0-c2f6-4066-8b68-8f80bda76962" />
