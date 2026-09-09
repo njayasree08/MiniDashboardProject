@@ -10,3 +10,5 @@ I focused on creating a clean and user-friendly dashboard where important insigh
 **Tools** : Power BI | DAX | Data Visualization | Data Analysis
 
 
+
+<img width="300" height="300" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/973068f0-c2f6-4066-8b68-8f80bda76962" />
